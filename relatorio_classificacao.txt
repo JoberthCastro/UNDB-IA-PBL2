@@ -1,0 +1,17 @@
+=== Relat�rio de Classifica��o ===
+
+ROC AUC: 0.9562
+
+Matriz de Confus�o:
+[[ 605  118]
+ [  93 1945]]
+
+Relat�rio Detalhado:
+              precision    recall  f1-score   support
+
+           0       0.87      0.84      0.85       723
+           1       0.94      0.95      0.95      2038
+
+    accuracy                           0.92      2761
+   macro avg       0.90      0.90      0.90      2761
+weighted avg       0.92      0.92      0.92      2761
